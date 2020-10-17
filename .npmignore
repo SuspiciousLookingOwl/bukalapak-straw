@@ -1,0 +1,9 @@
+.github
+tests
+src
+example
+
+.eslintignore
+.eslintrc.js
+jest.config.js
+tsconfig.json
