@@ -8,7 +8,7 @@
 		"compile": "tsc",
 		"dev": "tsc --watch",
 		"dev:test": "jest --watch",
-		"lint:fix": "eslint . --fix && prettier --write src"
+		"lint:fix": "eslint . --fix && prettier --write ."
 	},
 	"repository": {
 		"type": "git",

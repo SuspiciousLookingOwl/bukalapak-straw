@@ -1,341 +1,258 @@
 {
-  "active": true,
-  "assurance": true,
-  "availableCountries": [],
-  "category": {
-    "id": 2,
-    "name": "Desktop",
-    "structure": [
-      "Komputer",
-      "Desktop"
-    ],
-    "url": "https://www.bukalapak.com/c/komputer/desktop"
-  },
-  "condition": "Baru",
-  "createdAt": "2019-08-14T06:20:38Z",
-  "deal": {},
-  "defaultCatalog": null,
-  "description": "...",
-  "digitalProduct": false,
-  "forSale": true,
-  "id": "24rcou4",
-  "images": {
-    "largeUrls": [
-      "https://s0.bukalapak.com/img/04293560131/large/data.jpeg",       
-      "https://s0.bukalapak.com/img/59745660131/large/data.png",        
-      "https://s0.bukalapak.com/img/08147660131/large/data.jpeg"        
-    ],
-    "smallUrls": [
-      "https://s0.bukalapak.com/img/04293560131/small/data.jpeg",       
-      "https://s0.bukalapak.com/img/59745660131/small/data.png",        
-      "https://s0.bukalapak.com/img/08147660131/small/data.jpeg"        
-    ]
-  },
-  "imported": false,
-  "installments": [
-    {
-      "bankIssuer": "bca",
-      "bankIssuerName": "Bank Central Asia (BCA)",
-      "logoUrl": "https://www.bukalapak.com/images/banks/bca.jpg",      
-      "terms": [
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "bni",
-      "bankIssuerName": "Bank Negara Indonesia (BNI)",
-      "logoUrl": "https://www.bukalapak.com/images/banks/bni.jpg",      
-      "terms": [
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "bri",
-      "bankIssuerName": "Bank Rakyat Indonesia (BRI)",
-      "logoUrl": "https://www.bukalapak.com/images/banks/bri.jpg",      
-      "terms": [
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "bukopin",
-      "bankIssuerName": "Bank Bukopin",
-      "logoUrl": "https://www.bukalapak.com/images/banks/bukopin.jpg",  
-      "terms": [
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "cimb",
-      "bankIssuerName": "Bank CIMB Niaga",
-      "logoUrl": "https://www.bukalapak.com/images/banks/cimb.jpg",     
-      "terms": [
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "cimb",
-      "bankIssuerName": "Bank CIMB Niaga",
-      "logoUrl": "https://www.bukalapak.com/images/banks/cimb.jpg",     
-      "terms": [
-        24
-      ]
-    },
-    {
-      "bankIssuer": "citibank",
-      "bankIssuerName": "Citibank",
-      "logoUrl": "https://www.bukalapak.com/images/banks/citibank.jpg", 
-      "terms": [
-        24,
-        18,
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "danamon",
-      "bankIssuerName": "Bank Danamon Indonesia",
-      "logoUrl": "https://www.bukalapak.com/images/banks/danamon.jpg",  
-      "terms": [
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "digibank",
-      "bankIssuerName": "Digibank",
-      "logoUrl": "https://www.bukalapak.com/images/banks/digibank.jpg", 
-      "terms": [
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "hsbc",
-      "bankIssuerName": "HSBC",
-      "logoUrl": "https://www.bukalapak.com/images/banks/hsbc.jpg",     
-      "terms": [
-        24,
-        18,
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "mandiri",
-      "bankIssuerName": "Bank Mandiri",
-      "logoUrl": "https://www.bukalapak.com/images/banks/mandiri.jpg",  
-      "terms": [
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "mandiri",
-      "bankIssuerName": "Bank Mandiri",
-      "logoUrl": "https://www.bukalapak.com/images/banks/mandiri.jpg",  
-      "terms": [
-        18
-      ]
-    },
-    {
-      "bankIssuer": "maybank",
-      "bankIssuerName": "Maybank",
-      "logoUrl": "https://www.bukalapak.com/images/banks/maybank.jpg",  
-      "terms": [
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "mnc",
-      "bankIssuerName": "MNC Bank",
-      "logoUrl": "https://www.bukalapak.com/images/banks/mnc.jpg",      
-      "terms": [
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "ocbc_nisp",
-      "bankIssuerName": "Bank OCBC NISP",
-      "logoUrl": "https://www.bukalapak.com/images/banks/ocbc_nisp.jpg",      
-      "terms": [
-        24,
-        18,
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "panin",
-      "bankIssuerName": "Panin Bank",
-      "logoUrl": "https://www.bukalapak.com/images/banks/panin.jpg",    
-      "terms": [
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "permata",
-      "bankIssuerName": "Bank Permata",
-      "logoUrl": "https://www.bukalapak.com/images/banks/permata.jpg",  
-      "terms": [
-        24,
-        18,
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "standard_chartered",
-      "bankIssuerName": "Standard Chartered Bank",
-      "logoUrl": "https://www.bukalapak.com/images/banks/standard_chartered.jpg",
-      "terms": [
-        12,
-        6,
-        3
-      ]
-    },
-    {
-      "bankIssuer": "uob",
-      "bankIssuerName": "Bank UOB Indonesia",
-      "logoUrl": "https://www.bukalapak.com/images/banks/uob.jpg",      
-      "terms": [
-        12,
-        6,
-        3
-      ]
-    }
-  ],
-  "maxQuantity": 2147483647,
-  "merchantReturnInsurance": false,
-  "minQuantity": 1,
-  "name": "Acer Predator Orion 9000 Gaming Desktop PO9-600 - i7-9700K RTX 2080",
-  "price": 49999000,
-  "productSin": [],
-  "rating": {
-    "averageRate": 0,
-    "userCount": 0
-  },
-  "relistedAt": "2019-08-14T06:20:38Z",
-  "rushDelivery": false,
-  "shipping": {
-    "forceInsurance": true,
-    "freeShippingCoverage": []
-  },
-  "skuId": 4654886233,
-  "sla": {
-    "type": "",
-    "value": 0
-  },
-  "specialCampaignId": 4117,
-  "specs": {
-    "brand": "Acer",
-    "kapasitasHardisk": ">1TB",
-    "kapasitasMemory": ">=8Gb"
-  },
-  "state": "available",
-  "stateDescription": [],
-  "stats": {
-    "interestCount": 22,
-    "soldCount": 0,
-    "viewCount": 0,
-    "waitingPaymentCount": -1
-  },
-  "stock": 3,
-  "store": {
-    "address": {
-      "city": "Jakarta Pusat",
-      "province": "DKI Jakarta"
-    },
-    "alert": "",
-    "avatarUrl": "https://s1.bukalapak.com/avt/69696365/small/AMP_60x60.jpg",
-    "brandSeller": true,
-    "carriers": [
-      "SiCepat REG",
-      "JNE REG",
-      "JNE YES",
-      "GO-SEND Instant",
-      "Grab Instant",
-      "Ambil Sendiri",
-      "Bayar di Tempat (COD)"
-    ],
-    "closing": {
-      "closed": false
-    },
-    "deliveryTime": "15 jam",
-    "description": "Modern Personal Computer, High Quality Tech.",      
-    "firstUploadProductAt": "2017-05-04T16:15:08.000+07:00",
-    "flagship": false,
-    "groups": [],
-    "headerImage": {
-      "url": "https://s1.bukalapak.com/hdr/15422753/normal/69065c38900dd402923f."
-    },
-    "id": 31926421,
-    "inactivity": {
-      "inactive": false,
-      "lastAppearAt": "2020-10-17T14:27:39.663+07:00"
-    },
-    "lastOrderSchedule": {
-      "friday": "14:00",
-      "monday": "14:00",
-      "saturday": "14:00",
-      "thursday": "14:00",
-      "tuesday": "14:00",
-      "wednesday": "14:00"
-    },
-    "level": {
-      "imageUrl": "https://s0.bukalapak.com/images/badge/seller/xhdpi/level-3.png",
-      "name": "Pedagang Besar"
-    },
-    "name": "AMP Official Store",
-    "premiumLevel": "platinum",
-    "premiumTopSeller": true,
-    "rejection": {
-      "recentTransactions": 100,
-      "rejected": 5
-    },
-    "reviews": {
-      "negative": 24,
-      "positive": 407
-    },
-    "sla": {
-      "type": "custom",
-      "value": 5
-    },
-    "subscriberAmount": 4489,
-    "termAndCondition": "",
-    "url": "https://www.bukalapak.com/u/acerid"
-  },
-  "tagPages": [],
-  "updatedAt": "2020-09-07T20:05:38Z",
-  "url": "https://www.bukalapak.com/p/komputer/desktop/24rcou4-jual-acer-predator-orion-9000-gaming-desktop-po9-600-i7-9700k-rtx-2080",
-  "videoUrl": "https://www.youtube.com/watch?v=5ShUVyD_t2I",
-  "warranty": {
-    "cheapest": false
-  },
-  "weight": 50000,
-  "wholesales": [],
-  "withoutShipping": false
+	"active": true,
+	"assurance": true,
+	"availableCountries": [],
+	"category": {
+		"id": 2,
+		"name": "Desktop",
+		"structure": ["Komputer", "Desktop"],
+		"url": "https://www.bukalapak.com/c/komputer/desktop"
+	},
+	"condition": "Baru",
+	"createdAt": "2019-08-14T06:20:38Z",
+	"deal": {},
+	"defaultCatalog": null,
+	"description": "...",
+	"digitalProduct": false,
+	"forSale": true,
+	"id": "24rcou4",
+	"images": {
+		"largeUrls": [
+			"https://s0.bukalapak.com/img/04293560131/large/data.jpeg",
+			"https://s0.bukalapak.com/img/59745660131/large/data.png",
+			"https://s0.bukalapak.com/img/08147660131/large/data.jpeg"
+		],
+		"smallUrls": [
+			"https://s0.bukalapak.com/img/04293560131/small/data.jpeg",
+			"https://s0.bukalapak.com/img/59745660131/small/data.png",
+			"https://s0.bukalapak.com/img/08147660131/small/data.jpeg"
+		]
+	},
+	"imported": false,
+	"installments": [
+		{
+			"bankIssuer": "bca",
+			"bankIssuerName": "Bank Central Asia (BCA)",
+			"logoUrl": "https://www.bukalapak.com/images/banks/bca.jpg",
+			"terms": [12, 6, 3]
+		},
+		{
+			"bankIssuer": "bni",
+			"bankIssuerName": "Bank Negara Indonesia (BNI)",
+			"logoUrl": "https://www.bukalapak.com/images/banks/bni.jpg",
+			"terms": [12, 6, 3]
+		},
+		{
+			"bankIssuer": "bri",
+			"bankIssuerName": "Bank Rakyat Indonesia (BRI)",
+			"logoUrl": "https://www.bukalapak.com/images/banks/bri.jpg",
+			"terms": [12, 6, 3]
+		},
+		{
+			"bankIssuer": "bukopin",
+			"bankIssuerName": "Bank Bukopin",
+			"logoUrl": "https://www.bukalapak.com/images/banks/bukopin.jpg",
+			"terms": [12, 6, 3]
+		},
+		{
+			"bankIssuer": "cimb",
+			"bankIssuerName": "Bank CIMB Niaga",
+			"logoUrl": "https://www.bukalapak.com/images/banks/cimb.jpg",
+			"terms": [12, 6, 3]
+		},
+		{
+			"bankIssuer": "cimb",
+			"bankIssuerName": "Bank CIMB Niaga",
+			"logoUrl": "https://www.bukalapak.com/images/banks/cimb.jpg",
+			"terms": [24]
+		},
+		{
+			"bankIssuer": "citibank",
+			"bankIssuerName": "Citibank",
+			"logoUrl": "https://www.bukalapak.com/images/banks/citibank.jpg",
+			"terms": [24, 18, 12, 6, 3]
+		},
+		{
+			"bankIssuer": "danamon",
+			"bankIssuerName": "Bank Danamon Indonesia",
+			"logoUrl": "https://www.bukalapak.com/images/banks/danamon.jpg",
+			"terms": [12, 6, 3]
+		},
+		{
+			"bankIssuer": "digibank",
+			"bankIssuerName": "Digibank",
+			"logoUrl": "https://www.bukalapak.com/images/banks/digibank.jpg",
+			"terms": [12, 6, 3]
+		},
+		{
+			"bankIssuer": "hsbc",
+			"bankIssuerName": "HSBC",
+			"logoUrl": "https://www.bukalapak.com/images/banks/hsbc.jpg",
+			"terms": [24, 18, 12, 6, 3]
+		},
+		{
+			"bankIssuer": "mandiri",
+			"bankIssuerName": "Bank Mandiri",
+			"logoUrl": "https://www.bukalapak.com/images/banks/mandiri.jpg",
+			"terms": [12, 6, 3]
+		},
+		{
+			"bankIssuer": "mandiri",
+			"bankIssuerName": "Bank Mandiri",
+			"logoUrl": "https://www.bukalapak.com/images/banks/mandiri.jpg",
+			"terms": [18]
+		},
+		{
+			"bankIssuer": "maybank",
+			"bankIssuerName": "Maybank",
+			"logoUrl": "https://www.bukalapak.com/images/banks/maybank.jpg",
+			"terms": [12, 6, 3]
+		},
+		{
+			"bankIssuer": "mnc",
+			"bankIssuerName": "MNC Bank",
+			"logoUrl": "https://www.bukalapak.com/images/banks/mnc.jpg",
+			"terms": [12, 6, 3]
+		},
+		{
+			"bankIssuer": "ocbc_nisp",
+			"bankIssuerName": "Bank OCBC NISP",
+			"logoUrl": "https://www.bukalapak.com/images/banks/ocbc_nisp.jpg",
+			"terms": [24, 18, 12, 6, 3]
+		},
+		{
+			"bankIssuer": "panin",
+			"bankIssuerName": "Panin Bank",
+			"logoUrl": "https://www.bukalapak.com/images/banks/panin.jpg",
+			"terms": [12, 6, 3]
+		},
+		{
+			"bankIssuer": "permata",
+			"bankIssuerName": "Bank Permata",
+			"logoUrl": "https://www.bukalapak.com/images/banks/permata.jpg",
+			"terms": [24, 18, 12, 6, 3]
+		},
+		{
+			"bankIssuer": "standard_chartered",
+			"bankIssuerName": "Standard Chartered Bank",
+			"logoUrl": "https://www.bukalapak.com/images/banks/standard_chartered.jpg",
+			"terms": [12, 6, 3]
+		},
+		{
+			"bankIssuer": "uob",
+			"bankIssuerName": "Bank UOB Indonesia",
+			"logoUrl": "https://www.bukalapak.com/images/banks/uob.jpg",
+			"terms": [12, 6, 3]
+		}
+	],
+	"maxQuantity": 2147483647,
+	"merchantReturnInsurance": false,
+	"minQuantity": 1,
+	"name": "Acer Predator Orion 9000 Gaming Desktop PO9-600 - i7-9700K RTX 2080",
+	"price": 49999000,
+	"productSin": [],
+	"rating": {
+		"averageRate": 0,
+		"userCount": 0
+	},
+	"relistedAt": "2019-08-14T06:20:38Z",
+	"rushDelivery": false,
+	"shipping": {
+		"forceInsurance": true,
+		"freeShippingCoverage": []
+	},
+	"skuId": 4654886233,
+	"sla": {
+		"type": "",
+		"value": 0
+	},
+	"specialCampaignId": 4117,
+	"specs": {
+		"brand": "Acer",
+		"kapasitasHardisk": ">1TB",
+		"kapasitasMemory": ">=8Gb"
+	},
+	"state": "available",
+	"stateDescription": [],
+	"stats": {
+		"interestCount": 22,
+		"soldCount": 0,
+		"viewCount": 0,
+		"waitingPaymentCount": -1
+	},
+	"stock": 3,
+	"store": {
+		"address": {
+			"city": "Jakarta Pusat",
+			"province": "DKI Jakarta"
+		},
+		"alert": "",
+		"avatarUrl": "https://s1.bukalapak.com/avt/69696365/small/AMP_60x60.jpg",
+		"brandSeller": true,
+		"carriers": [
+			"SiCepat REG",
+			"JNE REG",
+			"JNE YES",
+			"GO-SEND Instant",
+			"Grab Instant",
+			"Ambil Sendiri",
+			"Bayar di Tempat (COD)"
+		],
+		"closing": {
+			"closed": false
+		},
+		"deliveryTime": "15 jam",
+		"description": "Modern Personal Computer, High Quality Tech.",
+		"firstUploadProductAt": "2017-05-04T16:15:08.000+07:00",
+		"flagship": false,
+		"groups": [],
+		"headerImage": {
+			"url": "https://s1.bukalapak.com/hdr/15422753/normal/69065c38900dd402923f."
+		},
+		"id": 31926421,
+		"inactivity": {
+			"inactive": false,
+			"lastAppearAt": "2020-10-17T14:27:39.663+07:00"
+		},
+		"lastOrderSchedule": {
+			"friday": "14:00",
+			"monday": "14:00",
+			"saturday": "14:00",
+			"thursday": "14:00",
+			"tuesday": "14:00",
+			"wednesday": "14:00"
+		},
+		"level": {
+			"imageUrl": "https://s0.bukalapak.com/images/badge/seller/xhdpi/level-3.png",
+			"name": "Pedagang Besar"
+		},
+		"name": "AMP Official Store",
+		"premiumLevel": "platinum",
+		"premiumTopSeller": true,
+		"rejection": {
+			"recentTransactions": 100,
+			"rejected": 5
+		},
+		"reviews": {
+			"negative": 24,
+			"positive": 407
+		},
+		"sla": {
+			"type": "custom",
+			"value": 5
+		},
+		"subscriberAmount": 4489,
+		"termAndCondition": "",
+		"url": "https://www.bukalapak.com/u/acerid"
+	},
+	"tagPages": [],
+	"updatedAt": "2020-09-07T20:05:38Z",
+	"url": "https://www.bukalapak.com/p/komputer/desktop/24rcou4-jual-acer-predator-orion-9000-gaming-desktop-po9-600-i7-9700k-rtx-2080",
+	"videoUrl": "https://www.youtube.com/watch?v=5ShUVyD_t2I",
+	"warranty": {
+		"cheapest": false
+	},
+	"weight": 50000,
+	"wholesales": [],
+	"withoutShipping": false
 }

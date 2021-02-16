@@ -5,6 +5,7 @@ Simple API Wrapper for Bukalapak. Intended for usage in Node environment.
 ---
 
 ## Installation
+
 ```
 npm i bukalapak-straw
 ```
@@ -12,22 +13,22 @@ npm i bukalapak-straw
 ---
 
 ## Example
-```js
 
+```js
 const Bukalapak = require("bukalapak-straw");
 
 const bl = new Bukalapak();
 
 async function run() {
-    const products = await bl.search({
-        query: "RTX 2080",
-        page: 1,
-        orderBy: Bukalapak.SEARCH.ORDER_BY.HIGHEST_RATING,
-        priceRange: "10000000:30000000",
-        ratingRange: "4:5",
-        couriers: ["SiCepat REG", "JNE REG"]
-    });
-    console.log(products[0]);
+	const products = await bl.search({
+		query: "RTX 2080",
+		page: 1,
+		orderBy: Bukalapak.SEARCH.ORDER_BY.HIGHEST_RATING,
+		priceRange: "10000000:30000000",
+		ratingRange: "4:5",
+		couriers: ["SiCepat REG", "JNE REG"],
+	});
+	console.log(products[0]);
 }
 
 run();
@@ -60,8 +61,10 @@ Searches for products, it's async so it returns a `Promise` of products.
 | `couriers`    | List of allowed shipping couriers of the products | string[]                                                                                                                                |
 
 ---
+
 ### Todo
-- [ ] Improve typings in `Product` interface
-- [ ] More test coverage
-- [ ] Improve documentation
-- [ ] Implement more API endpoint (such as: get product information, get shop information, etc.)
+
+-   [ ] Improve typings in `Product` interface
+-   [ ] More test coverage
+-   [ ] Improve documentation
+-   [ ] Implement more API endpoint (such as: get product information, get shop information, etc.)
