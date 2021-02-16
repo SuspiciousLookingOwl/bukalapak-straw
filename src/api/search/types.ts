@@ -12,12 +12,16 @@ export interface SearchParameters
 	superSeller: boolean;
 	bukaMall: boolean;
 	page: number;
+	limit: number;
 
 	/**
 	 * Product rating range, example: 3:5 will shows product with higher than 3 ratings
 	 */
 	ratingRange: string;
 	couriers: string[];
+	facet: true;
+	filter_non_popular_section: true;
+	brand: false;
 }
 
 // Jesus Christ Bukalapak, why so many keys!!!
