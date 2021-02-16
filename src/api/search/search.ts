@@ -3,7 +3,10 @@ import * as c from "./constants";
 import { parameterToSearchQuery } from "./helper";
 import Bukalapak from "../../Bukalapak";
 
-export async function search(this: Bukalapak, parameters: Partial<SearchParameters> = {}): Promise<Product[]> {
+export async function search(
+	this: Bukalapak,
+	parameters: Partial<SearchParameters> = {}
+): Promise<Product[]> {
 	parameters = {
 		facet: true,
 		filter_non_popular_section: true,
@@ -12,12 +15,13 @@ export async function search(this: Bukalapak, parameters: Partial<SearchParamete
 		condition: "",
 		superSeller: false,
 		brand: false,
-		...parameters
+		...parameters,
 	};
 
-	const response = await this.axios.get(`${c.ENDPOINT}?${await parameterToSearchQuery(parameters)}`, {
-		params: {}
-	});
+	const response = await this.axios.get(
+		`${c.ENDPOINT}?${await parameterToSearchQuery(parameters)}`,
+		{ params: {} }
+	);
 
 	return await response.data.data;
 }

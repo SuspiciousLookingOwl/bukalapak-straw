@@ -1,6 +1,6 @@
 export const ENDPOINT = "https://api.bukalapak.com/multistrategy-products/";
 
-export  const NORMALIZED_SEARCH_PARAMETER_KEY = {
+export const NORMALIZED_SEARCH_PARAMETER_KEY = {
 	orderBy: "sort",
 	superSeller: "top_seller",
 	bukaMall: "brand",
@@ -21,10 +21,10 @@ export const ORDER_BY = {
 	HIGHEST_RATING: "bestratingratio",
 	BEST_SELLING: "bestselling",
 	MOST_RELEVANT: "",
-	NEWEST: "date"
+	NEWEST: "date",
 } as const;
 
 export const CONDITION = {
 	NEW: "new",
-	USED: "used"
+	USED: "used",
 } as const;
